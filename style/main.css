@@ -48,6 +48,7 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-bottom: 20px;
 }
 
 .filme-principal .descricao {
@@ -104,4 +105,14 @@ header nav a:hover{
 
 .carousel-filmes{
     margin-top: 7px;
+    padding-bottom: 0px;
 }
+.titles-carousel{
+display: block;
+margin-top: 30px;
+}
+
+.titles-carousel2{
+    display: block;
+    padding: 0;
+    }
